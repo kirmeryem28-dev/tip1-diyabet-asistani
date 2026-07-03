@@ -1,0 +1,3107 @@
+{
+  "aciklama": "Tip 1 Diyabet Karbonhidrat Sayım ve Beslenme Asistanı - Birleşik Veritabanı",
+  "kaynaklar": [
+    "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)",
+    "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+  ],
+  "toplam_besin_sayisi": 561,
+  "besinler": [
+    {
+      "besin_adi": "Ahududu",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ananas",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 110,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Armut",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 120,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ayva",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1/3 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Avokado (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1/2 adet",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Böğürtlen",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 120,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çilek",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "12 orta boy",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Dut",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "10 küçük boy",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Elma",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 küçük boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yeşil erik",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "10 adet",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kırmızı erik",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "5 orta boy",
+      "agirlik_g": 85,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mürdüm eriği",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "3 orta boy",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Greyfurt (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1/2 orta boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "İncir (taze)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Karpuz (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 dilim (1/10 orta boy)",
+      "agirlik_g": 250,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kavun (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 dilim (1/10 orta boy)",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kivi",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kayısı",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "4 orta boy",
+      "agirlik_g": 160,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kiraz",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "15 adet",
+      "agirlik_g": 85,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Limon (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "2 küçük boy",
+      "agirlik_g": 180,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Turunç",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mandalina",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "2 küçük boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Muz",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 küçük boy",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Nar",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1/2 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Portakal (kabuksuz)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 130,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Şeftali",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 küçük boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Üzüm",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 küçük salkım (15 iri tane)",
+      "agirlik_g": 90,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Vişne",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 çay bardağı (20 adet)",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yenidünya (malta eriği)",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 çay bardağı (6 adet)",
+      "agirlik_g": 80,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mango",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1/2 küçük boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kuru üzüm",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "1 yemek kaşığı (25 adet)",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kuru Kayısı",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "3-4 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kuru İncir",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "1 büyük ya da 3 küçük boy",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kuru Erik",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "1 büyük ya da 3 küçük boy",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Hurma (çekirdeksiz)",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "1 büyük ya da 3 küçük boy",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Trabzon hurması",
+      "kategori": "Meyve Grubu (Kuru)",
+      "degisim_olcusu": "1/3 orta boy",
+      "agirlik_g": 45,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Bal kabağı (çiğ)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Bezelye (pişmiş)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Taze Bezelye (pişmiş)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 12,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Havuç (çiğ)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "1 büyük boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 8,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mısır (haşlanmış)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "1 orta boy koçan",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 19,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Patates (pişmiş)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 20,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Patates püresi (sütlü, yağlı)",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "3 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 18,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yer elması",
+      "kategori": "Sebze Grubu",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 14,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kabak çekirdeği (kabuklu)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 6,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ay çekirdeği (kabuklu)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 12,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Fındık (içi)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "28-30 adet / 1 avuç",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 3,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Antep fıstığı (kabuklu)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "2 avuç",
+      "agirlik_g": 60,
+      "karbonhidrat_g": 13,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ceviz (içi)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "4-5 adet / 1 avuç",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 3,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kaju-Hint Fıstığı",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "18-20 adet / 1 avuç",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 5,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çiğ Badem (içi)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "24-26 adet / 1 avuç",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 3,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yer Fıstığı (içi)",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "27-30 adet / 1 avuç",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 4,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Karışık kuruyemiş naturel",
+      "kategori": "Yağ Grubu",
+      "degisim_olcusu": "1 kahve fincanı",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 5,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kesme şeker (esmer/beyaz)",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "5-6 adet",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Toz şeker (esmer/beyaz)",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3 silme tatlı kaşığı",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Bal",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "2,5 silme tatlı kaşığı",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Marmelat",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3 silme tatlı kaşığı",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Reçel",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3 silme tatlı kaşığı",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Pekmez",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "1 yemek kaşığı",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Tahin Helva",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "1 piknik paket",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Cezerye",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "1 küçük paket",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çikolata",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3 küçük parça",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Cici Bebe Bisküvi",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3,5 adet",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Petibör Klasik Bisküvi",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "3 adet",
+      "agirlik_g": 18,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Etli kabak dolma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 orta boy (150gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 20,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Etli biber dolma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "2 orta boy (220gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Etli lahana sarma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "3 adet (150gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 22,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Etli yaprak sarma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "6 adet (150gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 22,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Zeytinyağlı biber dolma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 orta boy (130gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 17,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Zeytinyağlı lahana sarma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "3 adet (150gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 40,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Zeytinyağlı yaprak sarma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "6 adet (100gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Lahmacun",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 adet (~100gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kıymalı pide",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 adet (~170gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mantı",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 porsiyon (~150gr mantı)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 45,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Patates salatası",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "3 yemek kaşığı (~50gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mercimek köftesi",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "2 adet (~60gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "İçli köfte",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 adet (~90gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 20,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kısır",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "3 yemek kaşığı (~60gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mücver",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "2 adet (150gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çiğ köfte",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "2 adet (40gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yaş pasta",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 ince dilim (~100gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 45,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kek",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 dilim (~50gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 25,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Dondurma",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "2 top (~50gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 20,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Muhallebi",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 porsiyon (~220gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 55,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Su böreği",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 küçük dilim (~80gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 20,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "İnce dilim kaşarlı tost",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 adet (~80gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Gözleme (peynirli-kıymalı, 1/2 yufka ile)",
+      "kategori": "Karışık Yemekler",
+      "degisim_olcusu": "1 adet (~130gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Süt",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yoğurt",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kefir",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ayran",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "2 su bardağı",
+      "agirlik_g": 400,
+      "karbonhidrat_g": 10,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kırmızı et",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 köfte kadar",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Tavuk eti",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 köfte kadar",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Hindi eti",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 köfte kadar",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Balık",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 köfte kadar",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yumurta",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Beyaz peynir",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Üçgen peynir",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 24,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yağsız lor",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 40,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çökelek",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 yemek kaşığı",
+      "agirlik_g": 40,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kaşar peyniri",
+      "kategori": "Et Grubu",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 0,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Ekmek (tüm çeşitler)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Hamburger ekmeği (küçük)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/2 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Hamburger ekmeği (büyük)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/3 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Sandviç ekmeği",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/3 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yufka",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/8 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Simit (susamsız)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/4 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Poğaça",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/2 adet",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Açma/sade börek",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/3 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Un (buğday, pirinç, patates)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Nişasta (buğday, mısır)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 15,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Pirinç pilavı (pişmiş)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Bulgur pilavı (pişmiş)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Erişte/Makarna (pişmiş)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Çorbalar (tümü)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 çorba kasesi",
+      "agirlik_g": "130-150",
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kestane (pişmiş)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "2-3 adet orta boy",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mısır (patlamış, yağsız)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 su bardağı dolusu",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yulaflı/Tuzlu Bisküvi",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "2-3 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Galeta/Grissini",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kinoa (çiğ)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1,5 yemek kaşığı",
+      "agirlik_g": 22,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "İrmik (pişmiş)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "3 yemek kaşığı (silme)",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Etimek",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "2 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Pide/Bazlama/Lavaş",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1/16 adet",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kandil Simiti",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kraker (tuzlu çubuk)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "15 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mısır/buğday/pirinç gevreği",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "2-3 yemek kaşığı",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Kurubaklagiller (pişmiş) (kurufasulye/nohut/mercimek/barbunya/soya fasulyesi/börülce/iç bakla/maş fasulyesi)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Chia tohumu (çiğ)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "4 yemek kaşığı (silme)",
+      "agirlik_g": 45,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Leblebi (beyaz/sarı)",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 avuç (2 yemek kaşığı)",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Mercimek Çorbası (Yeşil)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 23,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mercimek Çorbası (Kırmızı)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 21,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ezogelin Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mantar Çorbası (Kremalı)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yayla Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 20,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Toga Çorbası (Yoğurtlu ve Buğdaylı)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 26,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sebze Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tel Şehriye Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tarhana Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Domates Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tavuk Suyu Çorbası (Şehriyeli)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Düğün Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İşkembe Çorbası (Terbiyeli)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Erişteli Mercimek Çorbası",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 orta boy kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yayla Çorbası (Knor - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Domates Çorbası (Knor - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mercimek Çorbası (Knor - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sebze Çorbası (Knor - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Şehriyeli Tavuk Çorbası (Knor - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tarhana Çorbası (Fidan - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kremalı Mantar Çorbası (Magi - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İşkembe Çorbası (Magi - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ezogelin Çorbası (Magi - Hazır)",
+      "kategori": "Çorbalar",
+      "degisim_olcusu": "1 büyük kase",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Pirinç Pilavı",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 175,
+      "karbonhidrat_g": 48,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Bulgur Pilavı",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 175,
+      "karbonhidrat_g": 40,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İç Pilav",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 180,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Soslu Makarna",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 39,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sebzeli Makarna",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 43,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Fırın Makarna",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 250,
+      "karbonhidrat_g": 59,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Spagetti Bolonez",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 47,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Keşkek",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 yemek kaşığı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kısır",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "7-8 yemek kaşığı (1 orta boy çorba kasesi)",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 46,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kayseri Mantısı",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "1 orta boy çorba kasesi mantı ve 1 çay bardağı yoğurtlu",
+      "agirlik_g": 250,
+      "karbonhidrat_g": 51,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mercimek Köftesi",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 adet (orta boy)",
+      "agirlik_g": 180,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Lahana Sarma",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "3 adet (orta boy)",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 41,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Yaprak Sarma",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "6 adet (orta boy)",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Biber Dolma",
+      "kategori": "Pilav, Makarna ve Dolmalar",
+      "degisim_olcusu": "2 adet (orta boy)",
+      "agirlik_g": 265,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mayalı Poaça (Peynirli)",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet 90 gr",
+      "agirlik_g": 90,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mayalı Poaça (Patatesli)",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet 90 gr",
+      "agirlik_g": 90,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Paskalya Çöreği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet 100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sandviç Ekmeği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet 75 gr",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Bazlama",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "Pişmiş olarak 100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karadeniz Pidesi (Kıymalı veya Peynirli)",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "İçine peynir ve et girecek şekilde (sebzeli); 100 gr hamur - 100 gr iç",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 65,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karadeniz Pidesi (Yumurtalı)",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "İçine yumurta girecek şekilde; 100 gr hamur - 2 yumurta",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Patatesli Rulo Börek",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "Çeyrek yufkadan yapılmış (45 gr), yarım küçük patatesli",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Paçanga Böreği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "(45 gr) çeyrek yufkadan",
+      "agirlik_g": null,
+      "karbonhidrat_g": 28,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kıymalı Tepsi Börek",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet (150 gr)",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ispanaklı Börek",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 kg yufka ve 600 gr ıspanaktan yapılmış",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 55,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sarıyer Böreği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet (150 gr)",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Talaş Böreği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet (150 gr)",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 40,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Çiğ Börek",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "1 adet (60 gr)",
+      "agirlik_g": 60,
+      "karbonhidrat_g": 22,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Puf Böreği",
+      "kategori": "Hamur İşleri",
+      "degisim_olcusu": "Peynirli veya kıymalı",
+      "agirlik_g": 55,
+      "karbonhidrat_g": 21,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Lahmacun",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "25 cm çapında (60 gr hamur)",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 40,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kıymalı Pide",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "100 gr hamur",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 65,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuşbaşı Pide",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "100 gr hamur",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Peynirli Pide",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "100 gr hamur",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Lavaş",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "1 adet (150 gr)",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 90,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İskender",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "75 gr pide + 100 gr yoğurt + 100 gr et + 4 yemek kaşığı pilav + 1/2 küçük domates",
+      "agirlik_g": null,
+      "karbonhidrat_g": 80,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Acılı Adana",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "Lavaş ve garnitür dahil (biber, domates, soğan)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 95,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Urfa Kebap",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "Lavaş ve garnitür dahil (biber, domates, soğan)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 95,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Beyti Kebap",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "Lavaş ve garnitür dahil (biber, domates, soğan)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 95,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Çiğ Köfte",
+      "kategori": "Pide ve Kebaplar",
+      "degisim_olcusu": "1 adet (25 gr)",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Çok Tahıllı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 28,
+      "karbonhidrat_g": 12,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Tam Buğday",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 33,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Geleneksel",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 22,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Geleneksel Esmer",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Pofuduk",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 26,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Çavdarlı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Kepekli",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 21,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Light Form",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 27,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Light Sandviç",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 72,
+      "karbonhidrat_g": 37,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Tost",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 22,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Büyük Tost",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 32,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Club Tost",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 34,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Büyümek Dilimli",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": 23,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Büyümek Sandviç",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 45,
+      "karbonhidrat_g": 22,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Büyümek Hamburger",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 52,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Sandviç 6'lı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 65,
+      "karbonhidrat_g": 31,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Tombul Sandviç 6'lı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 72,
+      "karbonhidrat_g": 32,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Hamburger 6'lı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 52,
+      "karbonhidrat_g": 27,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Uno Susamlı Hamburger 6'lı",
+      "kategori": "Uno Ürünleri",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 54,
+      "karbonhidrat_g": 28,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yaz Türlüsü",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hünkar Beğendi",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Beğendi (100 gr et + 100 gr beğendi)",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Haşlama Et",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Yarım küçük patates, havuç, 1 küçük soğan",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Çoban Kavurma",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Sade",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İslim Kebabı",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Patlıcan, domates, soğanlı",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 6,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tandır Kebabı",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Havuç ve soğanlı",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 3,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Fırında Rosto",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Patates püreli",
+      "agirlik_g": 160,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuzu Şiş - Çöp Şiş",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Arnavut Ciğeri",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Unlanıp kızartılmış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ciğer Tava",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Unlanmamış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Izgara Köfte (Ekmekli)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Köftenin içine ekmek girmiş",
+      "agirlik_g": 160,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Izgara Köfte (Ekmeksiz)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Köftenin içine ekmek girmemiş",
+      "agirlik_g": 160,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hasan Paşa Köfte",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Patates püreli",
+      "agirlik_g": 160,
+      "karbonhidrat_g": 18,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kadınbudu Köfte (Sade)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Sade",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kadınbudu Köfte (Patates Püreli)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "100 gr patates püreli + 100 gr köfte",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 41,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İzmir Köfte (Sade)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Sade",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İzmir Köfte (Sebzeli)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Yarım küçük patates ve sebzeli",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 12,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Fırın Tavuk (Soslu)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Soslu ve sebzeli",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Fırın Tavuk (Sade)",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Sade",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Şinitsel",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Büyük parça ve galeta unuyla kızartılmış",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 20,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Balıklar",
+      "kategori": "Etli Yemekler",
+      "degisim_olcusu": "Unlanmamış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kabak Graten",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "150 gr",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Şakşuka",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Patlıcan Kebabı",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İmam Bayıldı",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karnıyarık",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "Yaklaşık 10 cm'lik",
+      "agirlik_g": 110,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Kereviz",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "115 gr",
+      "agirlik_g": 115,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Bamya",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Yaz Türlüsü",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Ispanak",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 6,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Pırasa",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Taze Bezelye",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Taze Fasulye",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "4 yemek kaşığı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Kuru Fasulye",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Zeytinyağlı Barbunya",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "115 gr",
+      "agirlik_g": 115,
+      "karbonhidrat_g": 20,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kıymalı Patates",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Patates Püresi",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "Yaklaşık 1/2 su bardağı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Nohut",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kıymalı Bezelye",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "125 gr",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kıymalı Semizotu",
+      "kategori": "Sebze ve Kuru Baklagiller",
+      "degisim_olcusu": "110 gr",
+      "agirlik_g": 110,
+      "karbonhidrat_g": 6,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tarator",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 4,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Humus",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "1 top",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Taze Börülce",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kırmızı Lahana Salatası",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Havuç Salatası",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Fasulye Piyaz",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 22,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kereviz Salatası",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "(Yoğurtlu)",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 3,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Haydari",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "2 yemek kaşığı dolusu",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 4,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Taze Mevsim Salataları",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "200 gr çiğ sebzeden yapılmış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Turşular",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "Yenilen miktar sebze yemeği gibi değerlendirilir",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Domates Salatası",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karışık Salata",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 6,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Cacık",
+      "kategori": "Salatalar",
+      "degisim_olcusu": "1 orta kase (yoğurt + salatalık)",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kayısı",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "4 adet orta boy",
+      "agirlik_g": 130,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Muz",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 75,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Taze İncir",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 80,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kiraz",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "14 adet",
+      "agirlik_g": 90,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Vişne",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "18 adet",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Greyfurt",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "Yarım adet",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Avakado",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Portakal",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Limon",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mandalina",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "2 küçük boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yeni Dünya",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "6 adet",
+      "agirlik_g": 125,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Elirik",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "4 adet",
+      "agirlik_g": 80,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Nar",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1/2 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kavun",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1/8 orta boy",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karpuz",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1/8 orta boy",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru İncir",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "2 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Kayısı",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "4 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Erik",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "5 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hurma (Kuru)",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "2 adet",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Portakal Suyu",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1.5 çay bardağı",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 16,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Greyfurt Suyu",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1.5 çay bardağı",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Elma Suyu",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 12,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Üzüm Suyu",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Vişne Suyu",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 çay bardağı",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Böğürtlen",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "15 adet",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 13,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ananas",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 14,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yer Elması",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Pestil",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 91,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kestane (Kavrulmuş)",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 53,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Mısır (Patlamış)",
+      "kategori": "Meyveler",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 77,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Kayısı",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Vişne",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 47,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Taze Kayısı",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 48,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Erik",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 43,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Şeftali",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 46,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Elma",
+      "kategori": "Kompostolar",
+      "degisim_olcusu": "1 orta büyük kase",
+      "agirlik_g": 300,
+      "karbonhidrat_g": 48,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tuzlu Kuru Pasta",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "17 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tatlı Kuru Pasta",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "17 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 11,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kek",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "50 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Pasta (Üstü Çikolatalı)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Arasına çikolata/marmelat sürülüp yapıştırılmış",
+      "agirlik_g": 30,
+      "karbonhidrat_g": 20,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Pasta (Üstü Çikolatasız)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Arasına çikolata/marmelat sürülüp yapıştırılmış",
+      "agirlik_g": 25,
+      "karbonhidrat_g": 15,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Pasta (İçi Boş)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Arasına çikolata/marmelat sürülüp yapıştırılmış",
+      "agirlik_g": 20,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kuru Pasta (Tek Kapak)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Sade",
+      "agirlik_g": 10,
+      "karbonhidrat_g": 5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Un Kurabiyesi (Büyük Boy)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Büyük boy",
+      "agirlik_g": 80,
+      "karbonhidrat_g": 55,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Un Kurabiyesi (Küçük Boy)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Küçük boy",
+      "agirlik_g": null,
+      "karbonhidrat_g": 7,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ekler",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Orta boy (yaklaşık 12 cm)",
+      "agirlik_g": 130,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Petibör",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Orta boy",
+      "agirlik_g": 35,
+      "karbonhidrat_g": 12.5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Beze",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Küçük",
+      "agirlik_g": 6,
+      "karbonhidrat_g": 5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Pişmaniye",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 83.2,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yaş Pasta (Meyveli)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "75 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 70,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yaş Pasta (Çikolatalı)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "75 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Yaş Pasta (Meyveli-Jöleli)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "75 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Açık Dondurma (Sade)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "30 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8.5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Açık Dondurma (Meyveli)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "30 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 9,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Açık Dondurma (Çikolata)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "30 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 9.5,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kremşanti (Çikolatalı, Su ile)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Su ile yapılmış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 20,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kremşanti (Çikolatalı, Süt ile)",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "Süt ile yapılmış",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 23,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Elmalı Kurabiye",
+      "kategori": "Pastalar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": 100,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tulumba Tatlısı",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kalburbastı",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Şekerpare",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kemalpaşa",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "2 küçük",
+      "agirlik_g": 50,
+      "karbonhidrat_g": 25,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Revani",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 dilim (150 gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kabak Tatlısı",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "Pişmiş (100 gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Tahin Helvası",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 54,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sütlaç",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 kase (150 gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 45,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Aşure",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 kase (150 gr)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Güllaç",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "175 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 33,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Baklava",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 35,
+      "karbonhidrat_g": 17,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kadayıf",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "150 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Süpangle",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "150 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Ekmek Tatlısı",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "200 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 85,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hanımgöbeği",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hurma Tatlısı",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 50,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "İrmik Helvası",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 44,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Muhallebi",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "150 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 30,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Lokum",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 57,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Akide Şekeri",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 87,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Höşmerim",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 54,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kestane Şekeri",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karyoka",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kazandibi",
+      "kategori": "Tatlılar",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 40,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sucuk, Salam, Sosis",
+      "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
+      "degisim_olcusu": "Değer 100 gr'ın altında tüketilen miktarlar için",
+      "agirlik_g": null,
+      "karbonhidrat_g": 0,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Süt ve Yoğurt (Sade)",
+      "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
+      "degisim_olcusu": "200 gr veya 1 su bardağı veya 1 orta kase veya hazır küçük boy süt/yoğurt",
+      "agirlik_g": null,
+      "karbonhidrat_g": 10,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Aktivia",
+      "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": 115,
+      "karbonhidrat_g": 8,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sandviç Ekmeği",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hamburger Ekmeği",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "100 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 60,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Hamburger",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Cheesburger",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Kingburger",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Piliçburger",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
+      "agirlik_g": null,
+      "karbonhidrat_g": 70,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sosisli Sandviç",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
+      "agirlik_g": null,
+      "karbonhidrat_g": 75,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sosis Tava",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "Hamburger ekmeği + patates kızartması + Rus salatası dahil",
+      "agirlik_g": null,
+      "karbonhidrat_g": 100,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Piliç Tava",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "Hamburger ekmeği + patates kızartması + Rus salatası dahil",
+      "agirlik_g": null,
+      "karbonhidrat_g": 100,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Karışık Pizza",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "Kaşarlı, sosisli, sucuklu, pastırmalı, zeytinli, mantarlı",
+      "agirlik_g": null,
+      "karbonhidrat_g": 90,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Sade Pizza",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "Yaklaşık 20 cm çapında (kaşar ve sebze içerir)",
+      "agirlik_g": null,
+      "karbonhidrat_g": 94,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Parfe",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "Plastik bardakla 150 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 35,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Soğuk Sandviç",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "120 gr sandviç ekmeği ile",
+      "agirlik_g": null,
+      "karbonhidrat_g": 73,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    {
+      "besin_adi": "Patates Kızartma",
+      "kategori": "Fast Food",
+      "degisim_olcusu": "150 gr",
+      "agirlik_g": null,
+      "karbonhidrat_g": 26,
+      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    },
+    
+  {"besin_adi": "Hamburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 33, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Cheesburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Double Cheesburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 35, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Tavuklu Burger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Big Mac (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 50, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "McRoyal (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 45, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Köfteburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 40, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Mc Turco Etli (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Mc Turco Tavuklu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 51, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "McChicken (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 44, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Chicken McNuggets 4'lü (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Chicken McNuggets 6'lı (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 10, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Chicken McNuggets 9'lu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Quarter Pounder (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 46, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Küçük (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Orta (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 42, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Büyük (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Salata Sossuz (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 17, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Salata Soslu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 22, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Standart Menü Hamburger'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Hamburger + küçük patates + Light Coca-Cola", "karbonhidrat_g": 62, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Standart Menü Cheesburger'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Cheesburger + küçük patates + Light Coca-Cola", "karbonhidrat_g": 63, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Standart Menü Big Mac'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Big Mac + orta boy patates + Light Coca-Cola", "karbonhidrat_g": 92, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Standart Menü McChicken'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 McChicken + orta boy patates + Light Coca-Cola", "karbonhidrat_g": 86, "kaynak": "Mc Donald's resmi değerleri"},
+  {"besin_adi": "Whopper Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Whopper Sandviç Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Double Whopper Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Double Whopper Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Whopper Jr. Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Whopper Jr. Sandviç Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Küçük (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Orta (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 46, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Patates Kızartması Büyük (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 63, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Sweet'N Sour Sauce (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 paket", "karbonhidrat_g": 11, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Onion Rings Orta (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 40, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Hardal (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 paket", "karbonhidrat_g": 7, "kaynak": "Burger King resmi değerleri"},
+  {"besin_adi": "Salep (suyla yapılmış)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 fincan (150cc)", "karbonhidrat_g": 16, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Salep (sütle yapılmış)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 fincan (150cc)", "karbonhidrat_g": 21, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Boza", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı (100cc)", "karbonhidrat_g": 58, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Coca Cola (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Coca Cola (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 37, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Coca Cola Light (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Coca Cola Light (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Fanta (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 12, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Fanta (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 40, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Sprite (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 10, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Sprite (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 33, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Çamlıca Sade Gazoz (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Çamlıca Sade Gazoz (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 37, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Cappy Portakal Suyu (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Cappy Portakal Suyu (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 36, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Lipton Ice-Tea Şeftali (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 7, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Lipton Ice-Tea Şeftali (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 23, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Lipton Ice-Tea Limon (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 7, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Lipton Ice-Tea Limon (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 22, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Ayran (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 4, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Ayran (200cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 hazır kutu veya 1 su bardağı", "karbonhidrat_g": 8, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Alkolsüz Bira", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı (100cc)", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Maden Suyu", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "porsiyon belirtilmemiş", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
+  {"besin_adi": "Browni Kakaolu-Fındıklı Kek (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Browni Kakaolu-Fındıklı Kek (200g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 121, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 23, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (250g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 143, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (250g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 137, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Eti Popkek Kakao Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 40, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Eti Popkek Limon Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 41, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Eti Popkek Muz Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Fındıklı Kakaolu Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Meyveli Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 26, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Karamelli Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 24, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Topkek Çilekli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Topkek Portakallı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Topkek Damla Çikolatalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 21, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Etiform Kakaolu Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (30g)", "karbonhidrat_g": 18, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Etiform Çilek Aromalı Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (30g)", "karbonhidrat_g": 17, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Turti Ahududulu Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 35, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Turti İncirli Cevizli Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Turti Elmalı Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Turti Kakao Fındık Kremalı Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Klasik Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (125g)", "karbonhidrat_g": 98, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Tuzsuz Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (130g)", "karbonhidrat_g": 104, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Eti Light Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (120g)", "karbonhidrat_g": 84, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Eti Lifalif Yulaf Ezmesi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (250g)", "karbonhidrat_g": 152, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Çubuk Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 28, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 103, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Kıvrık Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Kıvrık Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 103, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Susamlı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Susamlı Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 88, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Peynirli Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 32, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Peynirli Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 95, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Baharatlı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Baharatlı Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 93, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Crax Acılı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Susamlı Tatlı Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 33, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cicibebe Bisküvi (190g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 131, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cicibebe Bisküvi (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 276, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cicibebe Bisküvi (1000g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 690, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cicibebe Bisküvi (1200g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 828, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Muzlu Cicibebe Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (190g)", "karbonhidrat_g": 140, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Piknik Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (75g)", "karbonhidrat_g": 57, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakaolu Piknik Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (75g)", "karbonhidrat_g": 49, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakaolu Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (175g)", "karbonhidrat_g": 118, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Portakallı Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (105g)", "karbonhidrat_g": 74, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çaykeyfi Peynirli Susamlı Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (90g)", "karbonhidrat_g": 45, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çaykeyfi Fındıklı Bisküvi (110g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 71, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çaykeyfi Fındıklı Bisküvi (185g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 119, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (110g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 75, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (185g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 127, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kepekli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (155g)", "karbonhidrat_g": 81, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Finger Bisküvi (160g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 122, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Finger Bisküvi (960g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 731, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Finger Bisküvi (480g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 365, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Limon Lifli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kurabiye Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (150g)", "karbonhidrat_g": 107, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Pronot Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (85g)", "karbonhidrat_g": 56, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Üzümlü Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 131, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Üzümlü Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 18, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Meyveli Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 150, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Meyveli Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakaolu Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 149, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakaolu Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Mozaik Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 139, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Mozaik Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 19, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Vanilyalı Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 152, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Vanilyalı Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakaolu Kaplamalı Kakaolu Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 156, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Limonlu Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 162, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Mozaik Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 164, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Vanilyalı Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 168, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Hindistancevizli Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 144, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Dereotlu Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Yulaflı Kepekli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 19, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "ABC Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Balık Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 25, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Balık Kraker (160g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 102, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Bumbo", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Burçak", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (165g)", "karbonhidrat_g": 113, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "CanKraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (33g)", "karbonhidrat_g": 23, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cin Çilek Jöleli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (29g)", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Cin Portakal Jöleli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (377g)", "karbonhidrat_g": 280, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Barbekü (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Barbekü (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 102, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Çörekotlu (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Çörekotlu (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 110, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Kekikli (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 28, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Kekikli (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 104, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Sade Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Sade Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 111, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Tabasco (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Çezzo Tabasco (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 100, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Etibör", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (400g)", "karbonhidrat_g": 319, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Etimax (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 75, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Etimax (67g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 50, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Bisküvi (45g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Bisküvi (18g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 12, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Çikolata Kaplı Lifli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (56g)", "karbonhidrat_g": 17, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Kepekli Pizza", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Portakallı Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (90g)", "karbonhidrat_g": 66, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Form Tarçınlı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Günboyu", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (120g)", "karbonhidrat_g": 72, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakao Kraker Gofret (70g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 49, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kakao Kraker Gofret (225g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 158, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Katmer Kraker (180g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 132, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Katmer Kraker (360g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 265, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Çilek Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 65, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Çilek Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 258, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Fındık Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 70, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Fındık Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 278, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Kakao Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 67, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Kakao Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 267, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Kremalı (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 68, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Kremalı (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 272, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kaymaklım Muz Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 267, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kremalı Bisküvi (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 74, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "Kremalı Bisküvi (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 295, "kaynak": "Eti resmi ürün değerleri"},
+  {"besin_adi": "S.Cornetto Antep Fıstık-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "S.Cornetto Cookies", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "S.Cornetto İncir", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 28, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "S.Cornetto Cheesecake", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Keyif (Eski)", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 16, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto (Yeni)", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Çikolata-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Çilek-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Cup", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 24, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Solero Meyveli Kup", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Cornetto Promo", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Tom&Jerry", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 12, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Kakao", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Vanilya", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Antep Fıstık", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Çilek", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Şokomax", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 9, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Minimilk Kakao", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Minimilk Sade", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Kup Kakao-Vanilya", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 14, "kaynak": "Algida resmi ürün değerleri"},
+  {"besin_adi": "Max Define Adası", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 14, "kaynak": "Algida resmi ürün değerleri"}
+]
+  
+}
