@@ -2,16 +2,16 @@
   "aciklama": "Tip 1 Diyabet Karbonhidrat Sayım ve Beslenme Asistanı - Birleşik Veritabanı",
   "kaynaklar": [
     "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)",
-    "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
+    "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir",
+    "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
   ],
-  "toplam_besin_sayisi": 561,
+  "toplam_besin_sayisi": 542,
   "besinler": [
     {
       "besin_adi": "Ahududu",
       "kategori": "Meyve Grubu",
-      "degisim_olcusu": "1 çay bardağı",
       "agirlik_g": 100,
-      "karbonhidrat_g": 15,
+      "karbonhidrat_g": 8,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -19,7 +19,7 @@
       "kategori": "Meyve Grubu",
       "degisim_olcusu": "1 dilim",
       "agirlik_g": 110,
-      "karbonhidrat_g": 15,
+      "karbonhidrat_g": 10,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -351,11 +351,11 @@
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
-      "besin_adi": "Yer elması",
+      "besin_adi": "Yer elması(pişmiş)",
       "kategori": "Sebze Grubu",
       "degisim_olcusu": "1 çay bardağı",
       "agirlik_g": 75,
-      "karbonhidrat_g": 14,
+      "karbonhidrat_g": 5,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -553,16 +553,16 @@
     {
       "besin_adi": "Zeytinyağlı biber dolma",
       "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "1 orta boy (130gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 17,
+      "degisim_olcusu": "1 orta boy ",
+      "agirlik_g": 130,
+      "karbonhidrat_g": 18,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
       "besin_adi": "Zeytinyağlı lahana sarma",
       "kategori": "Karışık Yemekler",
       "degisim_olcusu": "3 adet (150gr)",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 40,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
@@ -570,15 +570,7 @@
       "besin_adi": "Zeytinyağlı yaprak sarma",
       "kategori": "Karışık Yemekler",
       "degisim_olcusu": "6 adet (100gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 30,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
-      "besin_adi": "Lahmacun",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "1 adet (~100gr)",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 30,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
@@ -586,7 +578,7 @@
       "besin_adi": "Kıymalı pide",
       "kategori": "Karışık Yemekler",
       "degisim_olcusu": "1 adet (~170gr)",
-      "agirlik_g": null,
+      "agirlik_g": 170,
       "karbonhidrat_g": 60,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
@@ -607,27 +599,11 @@
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
-      "besin_adi": "Mercimek köftesi",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "2 adet (~60gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 15,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
       "besin_adi": "İçli köfte",
       "kategori": "Karışık Yemekler",
       "degisim_olcusu": "1 adet (~90gr)",
       "agirlik_g": null,
       "karbonhidrat_g": 20,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
-      "besin_adi": "Kısır",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "3 yemek kaşığı (~60gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 15,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -647,35 +623,11 @@
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
-      "besin_adi": "Yaş pasta",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "1 ince dilim (~100gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 45,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
       "besin_adi": "Kek",
       "kategori": "Karışık Yemekler",
       "degisim_olcusu": "1 dilim (~50gr)",
       "agirlik_g": null,
       "karbonhidrat_g": 25,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
-      "besin_adi": "Dondurma",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "2 top (~50gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 20,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
-      "besin_adi": "Muhallebi",
-      "kategori": "Karışık Yemekler",
-      "degisim_olcusu": "1 porsiyon (~220gr)",
-      "agirlik_g": null,
-      "karbonhidrat_g": 55,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -711,6 +663,30 @@
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
+      "besin_adi": "Badem Sütü",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 5,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Yulaf Sütü",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 14,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Hindistan Cevizi Sütü",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 5,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
       "besin_adi": "Yoğurt",
       "kategori": "Süt Grubu",
       "degisim_olcusu": "1 su bardağı",
@@ -729,9 +705,9 @@
     {
       "besin_adi": "Ayran",
       "kategori": "Süt Grubu",
-      "degisim_olcusu": "2 su bardağı",
-      "agirlik_g": 400,
-      "karbonhidrat_g": 10,
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 6,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
@@ -832,14 +808,6 @@
     },
     {
       "besin_adi": "Hamburger ekmeği (büyük)",
-      "kategori": "Ekmek ve Yerine Geçenler Grubu",
-      "degisim_olcusu": "1/3 adet",
-      "agirlik_g": 25,
-      "karbonhidrat_g": 15,
-      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
-    },
-    {
-      "besin_adi": "Sandviç ekmeği",
       "kategori": "Ekmek ve Yerine Geçenler Grubu",
       "degisim_olcusu": "1/3 adet",
       "agirlik_g": 25,
@@ -1308,30 +1276,6 @@
       "degisim_olcusu": "6 adet (orta boy)",
       "agirlik_g": 180,
       "karbonhidrat_g": 45,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Zeytinyağlı Lahana Sarma",
-      "kategori": "Pilav, Makarna ve Dolmalar",
-      "degisim_olcusu": "3 adet (orta boy)",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 41,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Zeytinyağlı Yaprak Sarma",
-      "kategori": "Pilav, Makarna ve Dolmalar",
-      "degisim_olcusu": "6 adet (orta boy)",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 35,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Zeytinyağlı Biber Dolma",
-      "kategori": "Pilav, Makarna ve Dolmalar",
-      "degisim_olcusu": "2 adet (orta boy)",
-      "agirlik_g": 265,
-      "karbonhidrat_g": 35,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
@@ -2119,38 +2063,6 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Muz",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1 orta boy",
-      "agirlik_g": 75,
-      "karbonhidrat_g": 16,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Taze İncir",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1 adet",
-      "agirlik_g": 80,
-      "karbonhidrat_g": 15,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Kiraz",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "14 adet",
-      "agirlik_g": 90,
-      "karbonhidrat_g": 14,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Vişne",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "18 adet",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 13,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
       "besin_adi": "Greyfurt",
       "kategori": "Meyveler",
       "degisim_olcusu": "Yarım adet",
@@ -2164,30 +2076,6 @@
       "degisim_olcusu": "1 orta boy",
       "agirlik_g": 200,
       "karbonhidrat_g": 15,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Portakal",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1 orta boy",
-      "agirlik_g": 125,
-      "karbonhidrat_g": 8,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Limon",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1 orta boy",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 17,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Mandalina",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "2 küçük boy",
-      "agirlik_g": 150,
-      "karbonhidrat_g": 17,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
@@ -2207,51 +2095,11 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Nar",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1/2 orta boy",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 16,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
       "besin_adi": "Kavun",
       "kategori": "Meyveler",
       "degisim_olcusu": "1/8 orta boy",
       "agirlik_g": 200,
       "karbonhidrat_g": 15,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Karpuz",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1/8 orta boy",
-      "agirlik_g": 200,
-      "karbonhidrat_g": 13,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Kuru İncir",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "2 adet",
-      "agirlik_g": 20,
-      "karbonhidrat_g": 14,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Kuru Kayısı",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "4 adet",
-      "agirlik_g": 20,
-      "karbonhidrat_g": 14,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Kuru Erik",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "5 adet",
-      "agirlik_g": 20,
-      "karbonhidrat_g": 14,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
@@ -2313,17 +2161,9 @@
     {
       "besin_adi": "Ananas",
       "kategori": "Meyveler",
-      "degisim_olcusu": "100 gr",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 14,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Yer Elması",
-      "kategori": "Meyveler",
-      "degisim_olcusu": "1 orta boy",
-      "agirlik_g": 100,
-      "karbonhidrat_g": 17,
+      "degisim_olcusu": "1 dilim",
+      "agirlik_g": null,
+      "karbonhidrat_g": 15,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
@@ -2351,7 +2191,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Kuru Kayısı",
+      "besin_adi": "Kuru Kayısı Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2359,7 +2199,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Vişne",
+      "besin_adi": "Vişne Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2367,7 +2207,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Taze Kayısı",
+      "besin_adi": "Taze Kayısı Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2375,7 +2215,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Kuru Erik",
+      "besin_adi": "Kuru Erik Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2383,7 +2223,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Şeftali",
+      "besin_adi": "Şeftali Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2391,7 +2231,7 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Elma",
+      "besin_adi": "Elma Kompostosu",
       "kategori": "Kompostolar",
       "degisim_olcusu": "1 orta büyük kase",
       "agirlik_g": 300,
@@ -2402,7 +2242,7 @@
       "besin_adi": "Tuzlu Kuru Pasta",
       "kategori": "Pastalar",
       "degisim_olcusu": "17 gr",
-      "agirlik_g": null,
+      "agirlik_g": 17,
       "karbonhidrat_g": 8,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2410,7 +2250,7 @@
       "besin_adi": "Tatlı Kuru Pasta",
       "kategori": "Pastalar",
       "degisim_olcusu": "17 gr",
-      "agirlik_g": null,
+      "agirlik_g": 17,
       "karbonhidrat_g": 11,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2418,7 +2258,7 @@
       "besin_adi": "Kek",
       "kategori": "Pastalar",
       "degisim_olcusu": "50 gr",
-      "agirlik_g": null,
+      "agirlik_g": 50,
       "karbonhidrat_g": 30,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2506,7 +2346,7 @@
       "besin_adi": "Yaş Pasta (Meyveli)",
       "kategori": "Pastalar",
       "degisim_olcusu": "75 gr",
-      "agirlik_g": null,
+      "agirlik_g": 75,
       "karbonhidrat_g": 70,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2514,7 +2354,7 @@
       "besin_adi": "Yaş Pasta (Çikolatalı)",
       "kategori": "Pastalar",
       "degisim_olcusu": "75 gr",
-      "agirlik_g": null,
+      "agirlik_g": 75,
       "karbonhidrat_g": 75,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2522,7 +2362,7 @@
       "besin_adi": "Yaş Pasta (Meyveli-Jöleli)",
       "kategori": "Pastalar",
       "degisim_olcusu": "75 gr",
-      "agirlik_g": null,
+      "agirlik_g": 75,
       "karbonhidrat_g": 75,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2530,7 +2370,7 @@
       "besin_adi": "Açık Dondurma (Sade)",
       "kategori": "Pastalar",
       "degisim_olcusu": "30 gr",
-      "agirlik_g": null,
+      "agirlik_g": 30,
       "karbonhidrat_g": 8.5,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2538,7 +2378,7 @@
       "besin_adi": "Açık Dondurma (Meyveli)",
       "kategori": "Pastalar",
       "degisim_olcusu": "30 gr",
-      "agirlik_g": null,
+      "agirlik_g": 30,
       "karbonhidrat_g": 9,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2546,7 +2386,7 @@
       "besin_adi": "Açık Dondurma (Çikolata)",
       "kategori": "Pastalar",
       "degisim_olcusu": "30 gr",
-      "agirlik_g": null,
+      "agirlik_g": 30,
       "karbonhidrat_g": 9.5,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2578,7 +2418,7 @@
       "besin_adi": "Tulumba Tatlısı",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 50,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2610,7 +2450,7 @@
       "besin_adi": "Revani",
       "kategori": "Tatlılar",
       "degisim_olcusu": "1 dilim (150 gr)",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 75,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2618,7 +2458,7 @@
       "besin_adi": "Kabak Tatlısı",
       "kategori": "Tatlılar",
       "degisim_olcusu": "Pişmiş (100 gr)",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 35,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2626,7 +2466,7 @@
       "besin_adi": "Tahin Helvası",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 54,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2634,7 +2474,7 @@
       "besin_adi": "Sütlaç",
       "kategori": "Tatlılar",
       "degisim_olcusu": "1 kase (150 gr)",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 45,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2642,7 +2482,7 @@
       "besin_adi": "Aşure",
       "kategori": "Tatlılar",
       "degisim_olcusu": "1 kase (150 gr)",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 50,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2650,7 +2490,7 @@
       "besin_adi": "Güllaç",
       "kategori": "Tatlılar",
       "degisim_olcusu": "175 gr",
-      "agirlik_g": null,
+      "agirlik_g": 175,
       "karbonhidrat_g": 33,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2666,7 +2506,7 @@
       "besin_adi": "Kadayıf",
       "kategori": "Tatlılar",
       "degisim_olcusu": "150 gr",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 75,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2674,7 +2514,7 @@
       "besin_adi": "Süpangle",
       "kategori": "Tatlılar",
       "degisim_olcusu": "150 gr",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 50,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2682,7 +2522,7 @@
       "besin_adi": "Ekmek Tatlısı",
       "kategori": "Tatlılar",
       "degisim_olcusu": "200 gr",
-      "agirlik_g": null,
+      "agirlik_g": 200,
       "karbonhidrat_g": 85,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2690,7 +2530,7 @@
       "besin_adi": "Hanımgöbeği",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 35,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2698,7 +2538,7 @@
       "besin_adi": "Hurma Tatlısı",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 50,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2706,7 +2546,7 @@
       "besin_adi": "İrmik Helvası",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 44,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2714,15 +2554,15 @@
       "besin_adi": "Muhallebi",
       "kategori": "Tatlılar",
       "degisim_olcusu": "150 gr",
-      "agirlik_g": null,
-      "karbonhidrat_g": 30,
+      "agirlik_g": 150,
+      "karbonhidrat_g": 25,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
       "besin_adi": "Lokum",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 57,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2730,7 +2570,7 @@
       "besin_adi": "Akide Şekeri",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 87,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2738,7 +2578,7 @@
       "besin_adi": "Höşmerim",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 54,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2746,7 +2586,7 @@
       "besin_adi": "Kestane Şekeri",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 60,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2754,7 +2594,7 @@
       "besin_adi": "Karyoka",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 60,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2762,7 +2602,7 @@
       "besin_adi": "Kazandibi",
       "kategori": "Tatlılar",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 40,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2770,7 +2610,7 @@
       "besin_adi": "Sucuk, Salam, Sosis",
       "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
       "degisim_olcusu": "Değer 100 gr'ın altında tüketilen miktarlar için",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 0,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
@@ -2778,12 +2618,12 @@
       "besin_adi": "Süt ve Yoğurt (Sade)",
       "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
       "degisim_olcusu": "200 gr veya 1 su bardağı veya 1 orta kase veya hazır küçük boy süt/yoğurt",
-      "agirlik_g": null,
+      "agirlik_g": 200,
       "karbonhidrat_g": 10,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Aktivia",
+      "besin_adi": "Activia",
       "kategori": "Reçel, Bal, Pekmez, Kahvaltılık, Süt ve Yoğurt",
       "degisim_olcusu": "1 adet",
       "agirlik_g": 115,
@@ -2791,51 +2631,11 @@
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
-      "besin_adi": "Sandviç Ekmeği",
-      "kategori": "Fast Food",
-      "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
-      "karbonhidrat_g": 60,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
       "besin_adi": "Hamburger Ekmeği",
       "kategori": "Fast Food",
       "degisim_olcusu": "100 gr",
-      "agirlik_g": null,
+      "agirlik_g": 100,
       "karbonhidrat_g": 60,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Hamburger",
-      "kategori": "Fast Food",
-      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
-      "agirlik_g": null,
-      "karbonhidrat_g": 75,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Cheesburger",
-      "kategori": "Fast Food",
-      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
-      "agirlik_g": null,
-      "karbonhidrat_g": 75,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Kingburger",
-      "kategori": "Fast Food",
-      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
-      "agirlik_g": null,
-      "karbonhidrat_g": 75,
-      "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
-    },
-    {
-      "besin_adi": "Piliçburger",
-      "kategori": "Fast Food",
-      "degisim_olcusu": "1 yemek kaşığı Rus salatası",
-      "agirlik_g": null,
-      "karbonhidrat_g": 70,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
     {
@@ -2898,210 +2698,1452 @@
       "besin_adi": "Patates Kızartma",
       "kategori": "Fast Food",
       "degisim_olcusu": "150 gr",
-      "agirlik_g": null,
+      "agirlik_g": 150,
       "karbonhidrat_g": 26,
       "kaynak": "Diyetkolik / diyabetim.com (Türkiye Diyabet Vakfı kaynaklı tablo) + Trakya Üniversitesi Hastanesi eğitim PDF ile çapraz kontrol edilmiştir"
     },
-    
-  {"besin_adi": "Hamburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 33, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Cheesburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Double Cheesburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 35, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Tavuklu Burger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Big Mac (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 50, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "McRoyal (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 45, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Köfteburger (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 40, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Mc Turco Etli (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Mc Turco Tavuklu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 51, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "McChicken (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 44, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Chicken McNuggets 4'lü (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Chicken McNuggets 6'lı (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 10, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Chicken McNuggets 9'lu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Quarter Pounder (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 46, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Küçük (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Orta (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 42, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Büyük (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Salata Sossuz (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 17, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Salata Soslu (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 adet", "karbonhidrat_g": 22, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Standart Menü Hamburger'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Hamburger + küçük patates + Light Coca-Cola", "karbonhidrat_g": 62, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Standart Menü Cheesburger'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Cheesburger + küçük patates + Light Coca-Cola", "karbonhidrat_g": 63, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Standart Menü Big Mac'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 Big Mac + orta boy patates + Light Coca-Cola", "karbonhidrat_g": 92, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Standart Menü McChicken'li (McDonald's)", "kategori": "Fast-Food - McDonald's", "degisim_olcusu": "1 McChicken + orta boy patates + Light Coca-Cola", "karbonhidrat_g": 86, "kaynak": "Mc Donald's resmi değerleri"},
-  {"besin_adi": "Whopper Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Whopper Sandviç Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Double Whopper Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Double Whopper Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 53, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Whopper Jr. Sandviç Mayonezli (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Whopper Jr. Sandviç Mayonezsiz (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Küçük (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Orta (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 46, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Patates Kızartması Büyük (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 63, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Sweet'N Sour Sauce (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 paket", "karbonhidrat_g": 11, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Onion Rings Orta (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 adet", "karbonhidrat_g": 40, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Hardal (Burger King)", "kategori": "Fast-Food - Burger King", "degisim_olcusu": "1 paket", "karbonhidrat_g": 7, "kaynak": "Burger King resmi değerleri"},
-  {"besin_adi": "Salep (suyla yapılmış)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 fincan (150cc)", "karbonhidrat_g": 16, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Salep (sütle yapılmış)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 fincan (150cc)", "karbonhidrat_g": 21, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Boza", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı (100cc)", "karbonhidrat_g": 58, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Coca Cola (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Coca Cola (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 37, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Coca Cola Light (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Coca Cola Light (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Fanta (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 12, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Fanta (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 40, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Sprite (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 10, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Sprite (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 33, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Çamlıca Sade Gazoz (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Çamlıca Sade Gazoz (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 37, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Cappy Portakal Suyu (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Cappy Portakal Suyu (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 36, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Lipton Ice-Tea Şeftali (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 7, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Lipton Ice-Tea Şeftali (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 23, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Lipton Ice-Tea Limon (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 7, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Lipton Ice-Tea Limon (330cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 kutu", "karbonhidrat_g": 22, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Ayran (100cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı", "karbonhidrat_g": 4, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Ayran (200cc)", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 hazır kutu veya 1 su bardağı", "karbonhidrat_g": 8, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Alkolsüz Bira", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "1 çay bardağı (100cc)", "karbonhidrat_g": 11, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Maden Suyu", "kategori": "İçecekler - Alkolsüz", "degisim_olcusu": "porsiyon belirtilmemiş", "karbonhidrat_g": 0, "kaynak": "Ekip PDF taraması - İçecekler bölümü"},
-  {"besin_adi": "Browni Kakaolu-Fındıklı Kek (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Browni Kakaolu-Fındıklı Kek (200g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 121, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 23, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (250g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 143, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (250g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 137, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Eti Popkek Kakao Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 40, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Eti Popkek Limon Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 41, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Eti Popkek Muz Kremalı Kaplamalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (60g)", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Fındıklı Kakaolu Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Meyveli Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 26, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Karamelli Topkek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 24, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Topkek Çilekli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Topkek Portakallı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Topkek Damla Çikolatalı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 21, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Etiform Kakaolu Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (30g)", "karbonhidrat_g": 18, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Etiform Çilek Aromalı Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (30g)", "karbonhidrat_g": 17, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Turti Ahududulu Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 35, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Turti İncirli Cevizli Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Turti Elmalı Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Turti Kakao Fındık Kremalı Turta", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Klasik Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (125g)", "karbonhidrat_g": 98, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Tuzsuz Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (130g)", "karbonhidrat_g": 104, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Eti Light Etimek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (120g)", "karbonhidrat_g": 84, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Eti Lifalif Yulaf Ezmesi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (250g)", "karbonhidrat_g": 152, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Çubuk Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 28, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 103, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Kıvrık Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Kıvrık Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 103, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Susamlı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Susamlı Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 88, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Peynirli Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 32, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Peynirli Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 95, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Baharatlı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Baharatlı Çubuk Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 93, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Crax Acılı Çubuk Kraker (50g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 34, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Susamlı Tatlı Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 33, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cicibebe Bisküvi (190g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 131, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cicibebe Bisküvi (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 276, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cicibebe Bisküvi (1000g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 690, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cicibebe Bisküvi (1200g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 828, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Muzlu Cicibebe Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (190g)", "karbonhidrat_g": 140, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Piknik Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (75g)", "karbonhidrat_g": 57, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakaolu Piknik Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (75g)", "karbonhidrat_g": 49, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakaolu Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (175g)", "karbonhidrat_g": 118, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Portakallı Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (105g)", "karbonhidrat_g": 74, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çaykeyfi Peynirli Susamlı Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (90g)", "karbonhidrat_g": 45, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çaykeyfi Fındıklı Bisküvi (110g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 71, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çaykeyfi Fındıklı Bisküvi (185g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 119, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (110g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 75, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (185g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 127, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kepekli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (155g)", "karbonhidrat_g": 81, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Finger Bisküvi (160g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 122, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Finger Bisküvi (960g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 731, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Finger Bisküvi (480g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 365, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Limon Lifli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (50g)", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kurabiye Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (150g)", "karbonhidrat_g": 107, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Pronot Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (85g)", "karbonhidrat_g": 56, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Üzümlü Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 131, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Üzümlü Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 18, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Meyveli Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 150, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Meyveli Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakaolu Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 149, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakaolu Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Mozaik Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 139, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Mozaik Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 19, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Vanilyalı Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 152, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Vanilyalı Dilim Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (35g)", "karbonhidrat_g": 20, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakaolu Kaplamalı Kakaolu Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 156, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Limonlu Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 162, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Mozaik Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 164, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Vanilyalı Kakaolu Kaplamalı Pay", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (300g)", "karbonhidrat_g": 168, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Hindistancevizli Pay Kek", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (260g)", "karbonhidrat_g": 144, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Dereotlu Çubuk Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Yulaflı Kepekli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (45g)", "karbonhidrat_g": 19, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "ABC Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Balık Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 25, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Balık Kraker (160g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 102, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Bumbo", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Burçak", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (165g)", "karbonhidrat_g": 113, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "CanKraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (33g)", "karbonhidrat_g": 23, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cin Çilek Jöleli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (29g)", "karbonhidrat_g": 22, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Cin Portakal Jöleli", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (377g)", "karbonhidrat_g": 280, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Barbekü (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Barbekü (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 102, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Çörekotlu (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 29, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Çörekotlu (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 110, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Kekikli (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 28, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Kekikli (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 104, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Sade Kraker (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Sade Kraker (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 111, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Tabasco (40g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 27, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Çezzo Tabasco (150g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 100, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Etibör", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (400g)", "karbonhidrat_g": 319, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Etimax (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 75, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Etimax (67g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 50, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Bisküvi (45g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 31, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Bisküvi (18g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 12, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Çikolata Kaplı Lifli Bisküvi", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (56g)", "karbonhidrat_g": 17, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Kepekli Pizza", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Portakallı Kraker", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (90g)", "karbonhidrat_g": 66, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Form Tarçınlı", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (40g)", "karbonhidrat_g": 30, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Günboyu", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket (120g)", "karbonhidrat_g": 72, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakao Kraker Gofret (70g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 49, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kakao Kraker Gofret (225g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 158, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Katmer Kraker (180g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 132, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Katmer Kraker (360g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 265, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Çilek Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 65, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Çilek Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 258, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Fındık Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 70, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Fındık Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 278, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Kakao Kraker (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 67, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Kakao Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 267, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Kremalı (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 68, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Kremalı (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 272, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kaymaklım Muz Kraker (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 267, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kremalı Bisküvi (100g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 74, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "Kremalı Bisküvi (400g)", "kategori": "Bisküvi ve Eti Ürünleri", "degisim_olcusu": "1 paket", "karbonhidrat_g": 295, "kaynak": "Eti resmi ürün değerleri"},
-  {"besin_adi": "S.Cornetto Antep Fıstık-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 29, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "S.Cornetto Cookies", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 32, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "S.Cornetto İncir", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 28, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "S.Cornetto Cheesecake", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 34, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Keyif (Eski)", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 16, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto (Yeni)", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Çikolata-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Çilek-Kaymak", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 23, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Cup", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 24, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Solero Meyveli Kup", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Cornetto Promo", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 20, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Tom&Jerry", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 12, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Kakao", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Vanilya", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Antep Fıstık", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Çilek", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 15, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Şokomax", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 9, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Minimilk Kakao", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Minimilk Sade", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 7, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Kup Kakao-Vanilya", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 14, "kaynak": "Algida resmi ürün değerleri"},
-  {"besin_adi": "Max Define Adası", "kategori": "Dondurmalar - Algida", "degisim_olcusu": "1 adet", "karbonhidrat_g": 14, "kaynak": "Algida resmi ürün değerleri"}
-]
-  
+    {
+      "besin_adi": "Hamburger (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 33,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Cheesburger (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 34,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Double Cheesburger (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 35,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Tavuklu Burger (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 34,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Big Mac (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 50,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "McRoyal (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 45,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Köfteburger (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 40,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Mc Turco Etli (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Mc Turco Tavuklu (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 51,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "McChicken (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 44,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Chicken McNuggets 4'lü (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 7,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Chicken McNuggets 6'lı (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 10,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Chicken McNuggets 9'lu (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 15,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Quarter Pounder (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 46,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Küçük (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 29,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Orta (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 42,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Büyük (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Salata Sossuz (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 17,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Salata Soslu (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 22,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Standart Menü Hamburger'li (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 Hamburger + küçük patates + Light Coca-Cola",
+      "karbonhidrat_g": 62,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Standart Menü Cheesburger'li (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 Cheesburger + küçük patates + Light Coca-Cola",
+      "karbonhidrat_g": 63,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Standart Menü Big Mac'li (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 Big Mac + orta boy patates + Light Coca-Cola",
+      "karbonhidrat_g": 92,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Standart Menü McChicken'li (McDonald's)",
+      "kategori": "Fast-Food - McDonald's",
+      "degisim_olcusu": "1 McChicken + orta boy patates + Light Coca-Cola",
+      "karbonhidrat_g": 86,
+      "kaynak": "Mc Donald's resmi değerleri"
+    },
+    {
+      "besin_adi": "Whopper Sandviç Mayonezli (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Whopper Sandviç Mayonezsiz (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Double Whopper Sandviç Mayonezli (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Double Whopper Mayonezsiz (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 53,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Whopper Jr. Sandviç Mayonezli (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 32,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Whopper Jr. Sandviç Mayonezsiz (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 32,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Küçük (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 29,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Orta (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 46,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Patates Kızartması Büyük (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 63,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Sweet'N Sour Sauce (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 11,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Onion Rings Orta (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 40,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Hardal (Burger King)",
+      "kategori": "Fast-Food - Burger King",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 7,
+      "kaynak": "Burger King resmi değerleri"
+    },
+    {
+      "besin_adi": "Salep (suyla yapılmış)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 fincan (150cc)",
+      "karbonhidrat_g": 16,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Salep (sütle yapılmış)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 fincan (150cc)",
+      "karbonhidrat_g": 21,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Boza",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı (100cc)",
+      "karbonhidrat_g": 58,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Coca Cola (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 11,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Coca Cola (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 37,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Coca Cola Light (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 0,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Coca Cola Light (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 0,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Fanta (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 12,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Fanta (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 40,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Sprite (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 10,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Sprite (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 33,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Çamlıca Sade Gazoz (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 11,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Çamlıca Sade Gazoz (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 37,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Cappy Portakal Suyu (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 11,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Cappy Portakal Suyu (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 36,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Lipton Ice-Tea Şeftali (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 7,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Lipton Ice-Tea Şeftali (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 23,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Lipton Ice-Tea Limon (100cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı",
+      "karbonhidrat_g": 7,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Lipton Ice-Tea Limon (330cc)",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 kutu",
+      "karbonhidrat_g": 22,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Alkolsüz Bira",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "1 çay bardağı (100cc)",
+      "karbonhidrat_g": 11,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Maden Suyu",
+      "kategori": "İçecekler - Alkolsüz",
+      "degisim_olcusu": "porsiyon belirtilmemiş",
+      "karbonhidrat_g": 0,
+      "kaynak": "Ekip PDF taraması - İçecekler bölümü"
+    },
+    {
+      "besin_adi": "Browni Kakaolu-Fındıklı Kek (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 30,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Browni Kakaolu-Fındıklı Kek (200g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 121,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 23,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Browni Gold Kakao Soslu Çikolatalı Kek (250g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 143,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 22,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Browni Gold Vişne Soslu Çikolatalı Kek (250g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 137,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Eti Popkek Kakao Kremalı Kaplamalı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (60g)",
+      "karbonhidrat_g": 40,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Eti Popkek Limon Kremalı Kaplamalı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (60g)",
+      "karbonhidrat_g": 41,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Eti Popkek Muz Kremalı Kaplamalı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (60g)",
+      "karbonhidrat_g": 34,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Fındıklı Kakaolu Topkek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 22,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Meyveli Topkek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (45g)",
+      "karbonhidrat_g": 26,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Karamelli Topkek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (45g)",
+      "karbonhidrat_g": 24,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Topkek Çilekli",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (45g)",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Topkek Portakallı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (45g)",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Topkek Damla Çikolatalı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 21,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Etiform Kakaolu Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (30g)",
+      "karbonhidrat_g": 18,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Etiform Çilek Aromalı Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (30g)",
+      "karbonhidrat_g": 17,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Turti Ahududulu Turta",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 35,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Turti İncirli Cevizli Turta",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 30,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Turti Elmalı Turta",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 31,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Turti Kakao Fındık Kremalı Turta",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Klasik Etimek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (125g)",
+      "karbonhidrat_g": 98,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Tuzsuz Etimek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (130g)",
+      "karbonhidrat_g": 104,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Eti Light Etimek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (120g)",
+      "karbonhidrat_g": 84,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Eti Lifalif Yulaf Ezmesi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (250g)",
+      "karbonhidrat_g": 152,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Çubuk Kraker (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 28,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Çubuk Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 103,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Kıvrık Kraker (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 34,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Kıvrık Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 103,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Susamlı Çubuk Kraker (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 29,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Susamlı Çubuk Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 88,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Peynirli Çubuk Kraker (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 32,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Peynirli Çubuk Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 95,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Baharatlı Çubuk Kraker (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 31,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Baharatlı Çubuk Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 93,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Crax Acılı Çubuk Kraker (50g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 29,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Çubuk Kraker",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 34,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Susamlı Tatlı Çubuk Kraker",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 33,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cicibebe Bisküvi (190g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 131,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cicibebe Bisküvi (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 276,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cicibebe Bisküvi (1000g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 690,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cicibebe Bisküvi (1200g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 828,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Muzlu Cicibebe Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (190g)",
+      "karbonhidrat_g": 140,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Piknik Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (75g)",
+      "karbonhidrat_g": 57,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakaolu Piknik Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (75g)",
+      "karbonhidrat_g": 49,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakaolu Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (175g)",
+      "karbonhidrat_g": 118,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Portakallı Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (105g)",
+      "karbonhidrat_g": 74,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çaykeyfi Peynirli Susamlı Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (90g)",
+      "karbonhidrat_g": 45,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çaykeyfi Fındıklı Bisküvi (110g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 71,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çaykeyfi Fındıklı Bisküvi (185g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 119,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (110g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 75,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çaykeyfi Damla Çikolatalı Bisküvi (185g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 127,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kepekli Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (155g)",
+      "karbonhidrat_g": 81,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Finger Bisküvi (160g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 122,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Finger Bisküvi (960g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 731,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Finger Bisküvi (480g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 365,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Limon Lifli Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (50g)",
+      "karbonhidrat_g": 29,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kurabiye Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (150g)",
+      "karbonhidrat_g": 107,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Pronot Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (85g)",
+      "karbonhidrat_g": 56,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Üzümlü Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 131,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Üzümlü Dilim Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 18,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Meyveli Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 150,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Meyveli Dilim Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 20,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakaolu Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 149,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakaolu Dilim Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 20,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Mozaik Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 139,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Mozaik Dilim Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 19,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Vanilyalı Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 152,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Vanilyalı Dilim Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (35g)",
+      "karbonhidrat_g": 20,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakaolu Kaplamalı Kakaolu Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (300g)",
+      "karbonhidrat_g": 156,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Limonlu Kakaolu Kaplamalı Pay",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (300g)",
+      "karbonhidrat_g": 162,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Mozaik Kakaolu Kaplamalı Pay",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (300g)",
+      "karbonhidrat_g": 164,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Vanilyalı Kakaolu Kaplamalı Pay",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (300g)",
+      "karbonhidrat_g": 168,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Hindistancevizli Pay Kek",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (260g)",
+      "karbonhidrat_g": 144,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Dereotlu Çubuk Kraker",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Yulaflı Kepekli Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (45g)",
+      "karbonhidrat_g": 19,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "ABC Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 31,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Balık Kraker (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 25,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Balık Kraker (160g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 102,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Bumbo",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 29,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Burçak",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (165g)",
+      "karbonhidrat_g": 113,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "CanKraker",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (33g)",
+      "karbonhidrat_g": 23,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cin Çilek Jöleli",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (29g)",
+      "karbonhidrat_g": 22,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cin Portakal Jöleli",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (377g)",
+      "karbonhidrat_g": 280,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Barbekü (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Barbekü (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 102,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Çörekotlu (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 29,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Çörekotlu (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 110,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Kekikli (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 28,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Kekikli (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 104,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Sade Kraker (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 30,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Sade Kraker (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 111,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Tabasco (40g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 27,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Çezzo Tabasco (150g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 100,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Etibör",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (400g)",
+      "karbonhidrat_g": 319,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Etimax (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 75,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Etimax (67g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 50,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Bisküvi (45g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 31,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Bisküvi (18g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 12,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Çikolata Kaplı Lifli Bisküvi",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (56g)",
+      "karbonhidrat_g": 17,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Kepekli Pizza",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 30,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Portakallı Kraker",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (90g)",
+      "karbonhidrat_g": 66,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Form Tarçınlı",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (40g)",
+      "karbonhidrat_g": 30,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Günboyu",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket (120g)",
+      "karbonhidrat_g": 72,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakao Kraker Gofret (70g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 49,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kakao Kraker Gofret (225g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 158,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Katmer Kraker (180g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 132,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Katmer Kraker (360g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 265,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Çilek Kraker (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 65,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Çilek Kraker (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 258,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Fındık Kraker (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 70,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Fındık Kraker (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 278,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Kakao Kraker (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 67,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Kakao Kraker (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 267,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Kremalı (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 68,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Kremalı (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 272,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kaymaklım Muz Kraker (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 267,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kremalı Bisküvi (100g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 74,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Kremalı Bisküvi (400g)",
+      "kategori": "Bisküvi ve Eti Ürünleri",
+      "degisim_olcusu": "1 paket",
+      "karbonhidrat_g": 295,
+      "kaynak": "Eti resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "S.Cornetto Antep Fıstık-Kaymak",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 29,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "S.Cornetto Cookies",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 32,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "S.Cornetto İncir",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 28,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "S.Cornetto Cheesecake",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 34,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Keyif (Eski)",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 16,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto (Yeni)",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 20,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Kaymak",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 23,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Çikolata-Kaymak",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 23,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Çilek-Kaymak",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 23,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Cup",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 24,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Solero Meyveli Kup",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 20,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Cornetto Promo",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 20,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Tom&Jerry",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 12,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Kakao",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 15,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Vanilya",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 15,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Antep Fıstık",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 15,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Çilek",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 15,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Şokomax",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 9,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Minimilk Kakao",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 7,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Minimilk Sade",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 7,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Kup Kakao-Vanilya",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 14,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Max Define Adası",
+      "kategori": "Dondurmalar - Algida",
+      "degisim_olcusu": "1 adet",
+      "karbonhidrat_g": 14,
+      "kaynak": "Algida resmi ürün değerleri"
+    },
+    {
+      "besin_adi": "Altınkılıç Kefirix (Sade)",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 10,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Altınkılıç Kefirix Laktozsuz",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 9,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Altınkılıç Kefirix Çilekli",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 14,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Altınkılıç Kefirix Orman Meyveli",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 20,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Altınkılıç Kefirix Yaban Mersinli",
+      "kategori": "Süt Grubu",
+      "degisim_olcusu": "1 su bardağı",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 20,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Çikolatalı Yulaf/Müsli",
+      "kategori": "Ekmek ve Yerine Geçenler Grubu",
+      "degisim_olcusu": "1 yemek kaşığı",
+      "agirlik_g": null,
+      "karbonhidrat_g": 8,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Kinder Pinguine",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": null,
+      "karbonhidrat_g": 13,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    },
+    {
+      "besin_adi": "Kinder Süt Dilimi",
+      "kategori": "Şeker ve Şekerli Besinler Grubu",
+      "degisim_olcusu": "1 adet",
+      "agirlik_g": null,
+      "karbonhidrat_g": 11,
+      "kaynak": "Ürün Ambalajı / Marka Resmi Değerleri (Ekip taraması)"
+    }
+  ]
 }
