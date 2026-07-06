@@ -135,3 +135,25 @@ if __name__ == "__main__":
         cevap = rag_zinciri.invoke(soru)
         print(f"🤖 Cevap: {cevap}")
         print("-" * 60)
+        
+# ============================================================
+# ELİF'İN STREAMLIT ARAYÜZÜNÜN ÇAĞIRACAĞI FONKSİYON
+# Perşembe - "Arka Planı Arayüze Bağlama" görevi için hazırlanmıştır.
+# ============================================================
+def cevap_al(soru: str) -> str:
+    """
+    Streamlit tarafının tek bilmesi gereken fonksiyon budur.
+    Bir soru metni alır, bir cevap metni döner.
+    LangChain'in iç detaylarıyla (invoke, retriever, prompt vs.)
+    Elif'in uğraşmasına gerek kalmaz.
+    """
+    if not soru or not soru.strip():
+        return "Lütfen bir soru yazın."
+
+    try:
+        cevap = rag_zinciri.invoke(soru)
+        return cevap
+    except Exception as e:
+        # Beklenmedik bir hata olursa (API zaman aşımı, bağlantı sorunu vb.)
+        # kullanıcıya çökme değil, nazik bir mesaj gösterilir.
+        return "⚠️ Şu anda bir sorun oluştu, lütfen birkaç saniye sonra tekrar deneyin."        
