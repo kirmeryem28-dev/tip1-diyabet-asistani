@@ -79,6 +79,22 @@
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {
+      "besin_adi": "Elma",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 150,
+      "karbonhidrat_g": 22,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Elma",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 büyük boy",
+      "agirlik_g": 200,
+      "karbonhidrat_g": 30,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
       "besin_adi": "Yeşil erik",
       "kategori": "Meyve Grubu",
       "degisim_olcusu": "10 adet",
@@ -188,6 +204,14 @@
       "degisim_olcusu": "1 küçük boy",
       "agirlik_g": 75,
       "karbonhidrat_g": 15,
+      "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
+    },
+    {
+      "besin_adi": "Muz",
+      "kategori": "Meyve Grubu",
+      "degisim_olcusu": "1 orta boy",
+      "agirlik_g": 130,
+      "karbonhidrat_g": 20,
       "kaynak": "Arkadaşım Diyabet - Karbonhidrat Sayımı Sunumu (Diyabetli Çocuklar Vakfı)"
     },
     {

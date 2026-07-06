@@ -127,7 +127,6 @@ if __name__ == "__main__":
     print("2) JSON besin verisi hazırlanıyor...")
     json_dosyalari = [
         "karbonhidrat_veritabani_birlesik.json",
-        "yeni_eklenen_besinler.json",   # 🆕 Eylül'ün fast-food/marka verisi
         # 🔮 ileride yeni bir kaynak eklerken sadece buraya bir satır eklenecek
     ]
     json_documentleri = []
@@ -139,3 +138,4 @@ if __name__ == "__main__":
     vectordb = vektor_veritabani_olustur(pdf_chunklari, json_documentleri)
 
     print("\n🎉 Bitti! Veritabanın './chroma_db' klasöründe hazır.")
+    
