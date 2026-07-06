@@ -48,10 +48,9 @@ if user_input:
     with st.chat_message("user"):
         st.write(user_input)
     
-    from rag_zinciri import cevap_al
+from rag_zinciri import cevap_al
     sabit_cevap = cevap_al(user_input)
     
     st.session_state.mesajlar.append({"rol": "assistant", "icerik": sabit_cevap})
     with st.chat_message("assistant"):
         st.write(sabit_cevap)
-        
