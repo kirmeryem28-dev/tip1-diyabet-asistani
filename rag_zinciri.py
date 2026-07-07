@@ -137,6 +137,6 @@ if __name__ == "__main__":
         print(f"\n🙋 Soru: {soru}")
         cevap = rag_zinciri.invoke(soru)
         print(f"🤖 Cevap: {cevap}")
-        print("-" * 60)    return "⚠️ Şu anda bir sorun oluştu, lütfen birkaç saniye sonra tekrar deneyin."   
-        
+        print("-" * 60)
+           
              
