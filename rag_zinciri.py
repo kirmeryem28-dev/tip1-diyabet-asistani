@@ -40,9 +40,12 @@ semantic_retriever = vectordb.as_retriever(search_kwargs={"k": 5})
 #    BM25Retriever kendi metin indeksini ister, bu yüzden Chroma'daki tüm kayıtları
 #    tekrar Document nesnesine çevirip ona veriyoruz.
 tum_kayitlar = vectordb.get(include=["documents", "metadatas"])
+belgeler = tum_kayitlar.get("documents") or []
+metalar = tum_kayitlar.get("metadatas") or [{}] * len(belgeler)
 bm25_dokumanlari = [
-    Document(page_content=icerik, metadata=meta)
-    for icerik, meta in zip(tum_kayitlar["documents"], tum_kayitlar["metadatas"])
+    Document(page_content=icerik, metadata=(meta if meta else {}))
+    for icerik, meta in zip(belgeler, metalar)
+    if icerik  # boş string'leri atla
 ]
 bm25_retriever = BM25Retriever.from_documents(bm25_dokumanlari)
 bm25_retriever.k = 5
@@ -134,26 +137,6 @@ if __name__ == "__main__":
         print(f"\n🙋 Soru: {soru}")
         cevap = rag_zinciri.invoke(soru)
         print(f"🤖 Cevap: {cevap}")
-        print("-" * 60)
+        print("-" * 60)    return "⚠️ Şu anda bir sorun oluştu, lütfen birkaç saniye sonra tekrar deneyin."   
         
-# ============================================================
-# ELİF'İN STREAMLIT ARAYÜZÜNÜN ÇAĞIRACAĞI FONKSİYON
-# Perşembe - "Arka Planı Arayüze Bağlama" görevi için hazırlanmıştır.
-# ============================================================
-def cevap_al(soru: str) -> str:
-    """
-    Streamlit tarafının tek bilmesi gereken fonksiyon budur.
-    Bir soru metni alır, bir cevap metni döner.
-    LangChain'in iç detaylarıyla (invoke, retriever, prompt vs.)
-    Elif'in uğraşmasına gerek kalmaz.
-    """
-    if not soru or not soru.strip():
-        return "Lütfen bir soru yazın."
-
-    try:
-        cevap = rag_zinciri.invoke(soru)
-        return cevap
-    except Exception as e:
-        # Beklenmedik bir hata olursa (API zaman aşımı, bağlantı sorunu vb.)
-        # kullanıcıya çökme değil, nazik bir mesaj gösterilir.
-        return "⚠️ Şu anda bir sorun oluştu, lütfen birkaç saniye sonra tekrar deneyin."        
+             
