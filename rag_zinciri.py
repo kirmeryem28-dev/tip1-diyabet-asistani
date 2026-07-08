@@ -138,5 +138,6 @@ if __name__ == "__main__":
         cevap = rag_zinciri.invoke(soru)
         print(f"🤖 Cevap: {cevap}")
         print("-" * 60)
+        
            
              
