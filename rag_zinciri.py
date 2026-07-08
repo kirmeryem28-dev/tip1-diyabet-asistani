@@ -83,45 +83,6 @@ retriever = EnsembleRetriever(
     weights=[0.3, 0.7],
 )
 
-# 2) System Prompt'u şablona koy
-SYSTEM_PROMPT = """Sen "KarbonAsistan" adında, Tip 1 Diyabetli bireylere ve ailelerine 
-karbonhidrat sayımında yardımcı olan bir yapay zeka asistanısın.
-
-KURALLAR:
-1. SADECE sana verilen bağlamdaki bilgiyi kullan. Bağlam dışına ASLA çıkma.
-2. Bağlamda cevap yoksa şunu söyle: 
-   "Bu konuda elimdeki kaynaklarda net bir bilgi bulamadım, lütfen diyetisyeninize danışın."
-   ASLA tahmin yürütme veya uydurma.
-3. Yanıtların kısa, net ve sade olsun. Tıbbi jargon kullanma.
-4. Karbonhidrat değerini verirken porsiyon/ölçüyü de belirt.
-5. Bağlamda birbirine benzer birden fazla kayıt varsa bu sırayla uygula:
-   ADIM 1 — Sorudaki ürün/marka adına TAM eşleşen kaydı bul:
-   - "Whopper" sorulmuşsa → "Whopper Jr." değil, "Whopper Sandviç" kaydını seç (53g)
-   - "patates" sorulmuşsa → "patates püresi" değil, "pişmiş patates" kaydını seç (20g)
-   - "elma" sorulmuşsa → "Elma Kompostosu" değil, "Elma (Meyve Grubu)" kaydını seç (15g)
-   Genel kural: sorudaki kelime "Jr.", "püresi", "kompostosu" gibi ek kelime içermiyorsa,
-   o ek kelimeyi içeren varyantları SEÇME.
-   ADIM 2 — Sorudaki boy/ölçü bağlamda yoksa (ör. "orta boy elma" ama kayıtta "küçük boy"):
-   mevcut en yakın kaydı kullan ve "elimdeki kayıtta küçük boy için 15g geçiyor" de.
-   "net bilgi bulamadım" ASLA deme — boy farkı "bilgi yokluğu" değildir.
-6. Miktar/birim dönüşümü gerektiren sorularda (ör. "500 ml", "2 bardak", "1.5 porsiyon",
-   "yarım simit"):
-   a) Bağlamda o birime EN YAKIN TEKİL kaydı bul.
-      - "yarım simit" → 1/4 simit kaydını bul, 2 ile çarp (1/4 × 2 = 1/2)
-      - "2 su bardağı ayran" → 1 su bardağı (200cc) kaydını bul, 2 ile çarp
-      - "500 ml kola" → 100cc kaydını bul, 5 ile çarp
-   b) Hesaplamayı adım adım göster: "[birim]'de [X]g ise [istenilen miktar]'da [X × çarpan] = [sonuç]g"
-   c) Çarpım sonucunu tekrar kontrol et; sonuç mantıklı görünmüyorsa "net hesaplayamıyorum,
-      diyetisyeninize danışın" de.
-   d) Asla "ama bu miktar şu birim için geçerlidir" gibi kendini çelen bir cümle kurma.
-      Tek bir net sayı ver.
-7. Her yanıtının en altına şu uyarıyı MUTLAKA ekle:
-   "⚠️ Bu bir tıbbi tavsiye değildir, doktorunuza/diyetisyeninize danışın."
-
-BAĞLAM:
-{context}
-"""
-
 prompt = ChatPromptTemplate.from_messages([
     ("system", SYSTEM_PROMPT),
     ("human", "{soru}"),
@@ -149,26 +110,31 @@ rag_zinciri = (
     | StrOutputParser()
 )
 
+
+UYARI_METNI = "⚠️ Bu bir tıbbi tavsiye değildir, doktorunuza/diyetisyeninize danışın."
+KONU_DISI_YANIT = (
+    "Ben yalnızca karbonhidrat sayımı konusunda yardımcı olabilirim. "
+    "Başka bir sorunuz varsa lütfen sorun!\n\n"
+)
+
 def cevap_al(soru: str) -> str:
-    """
-    app.py'nin çağırdığı ana fonksiyon: kullanıcının sorusunu alır,
-    RAG zincirinden geçirir ve metin cevabı döner.
-    """
-    return rag_zinciri.invoke(soru)
+    cevap = rag_zinciri.invoke(soru)
+    # LLM tamamen boş cevap döndürdüyse anlamlı bir mesaj ekle
+    if not cevap.strip() or cevap.strip() == UYARI_METNI:
+        cevap = KONU_DISI_YANIT
+    # Uyarı yoksa ekle
+    if UYARI_METNI not in cevap:
+        cevap = cevap.rstrip() + "\n\n" + UYARI_METNI
+    return cevap
 
 if __name__ == "__main__":
     test_sorulari = [
-        "1 orta boy elma kaç gram karbonhidrat içerir?",
-        "1 orta boy elma kaç gram karbonhidrat içerir?",
-        "1 orta boy elma kaç gram karbonhidrat içerir?",
         "1 orta boy elma kaç gram karbonhidrat içerir?",
         "elma kaç karbonhidrat",
     ]
     for soru in test_sorulari:
         print(f"\n🙋 Soru: {soru}")
-        cevap = rag_zinciri.invoke(soru)
+        cevap = cevap_al(soru)
         print(f"🤖 Cevap: {cevap}")
         print("-" * 60)
-        
-           
-             
+
