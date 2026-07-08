@@ -18,7 +18,15 @@ Bu proje, Tip 1 Diyabetli bireyler ve ailelerinin günlük beslenme süreçlerin
 Kullanıcılar herhangi bir yiyecek veya içeceği sorarak doğru ve kaynaklara dayalı karbonhidrat bilgisine anında ulaşabilir. Asistan, tahmin yapmak yerine yalnızca kendi veritabanındaki bilgiye dayanarak yanıt verir.
 
 ---
+## 👩‍💻 Ekip
 
+| İsim | Rol |
+|------|-----|
+| **Meryem** | Proje Lideri & AI Engineer — RAG zinciri, sistem prompt, OpenAI entegrasyonu |
+| **Eylül** | Data Engineer — Vektör veritabanı, chunking, JSON veri hazırlama |
+| **Elif** | Frontend & Ürün — Streamlit arayüzü, deployment |
+
+---
 ## ✨ Özellikler
 
 - 🔍 **Hibrit Arama:** BM25 (anahtar kelime) + Semantic (anlamsal) retrieval — yazım hatalarını ve dolaylı ifadeleri de anlıyor
@@ -140,15 +148,6 @@ Test kategorileri: Temel Doğruluk, Eş Anlamlı İfadeler, Belirsiz Sorular, Ha
 
 ---
 
-## 👩‍💻 Ekip
-
-| İsim | Rol |
-|------|-----|
-| **Meryem** | Proje Lideri & AI Engineer — RAG zinciri, sistem prompt, OpenAI entegrasyonu |
-| **Eylül** | Data Engineer — Vektör veritabanı, chunking, JSON veri hazırlama |
-| **Elif** | Frontend & Ürün — Streamlit arayüzü, deployment |
-
----
 
 ## ⚠️ Tıbbi Sorumluluk Reddi
 
