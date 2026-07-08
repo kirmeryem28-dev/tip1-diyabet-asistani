@@ -22,16 +22,40 @@ with open("system_prompt.txt", "r", encoding="utf-8") as f:
     SYSTEM_PROMPT = f.read()
     
 # 1) Vektör veritabanını aç (dün oluşturduğun ./chroma_db)
-embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
-vectordb = Chroma(
-    persist_directory="./chroma_db",
-    embedding_function=embeddings,
-    collection_name="karbonhidrat_koleksiyonu",
+import streamlit as st
+from vektor_veritabani_olustur import (
+    pdf_chunklarini_hazirla,
+    json_besinlerini_documentlere_cevir,
+    vektor_veritabani_olustur,
 )
-# Saf semantic (anlamsal) arama kısa/yazım hatalı/tekil kelimelerde (ör. "dolma",
-# "whopperr") zayıf kalıyordu -- k'yi büyütmek bunu çözmedi çünkü doğru kayıt zaten
-# ilk N sonuca girmiyordu. Çözüm: anahtar kelime bazlı BM25 aramasını semantic
-# aramayla birleştirmek (hibrit retriever).
+
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+
+@st.cache_resource(show_spinner="Veritabanı hazırlanıyor...")
+def vektordb_getir():
+    """
+    Cloud ortamında chroma_db diske kalıcı değil (veya hiç yok).
+    Bu yüzden her uygulama başlangıcında (ilk kullanıcı için) veritabanını
+    JSON'dan yeniden inşa ediyoruz. st.cache_resource sayesinde bu işlem
+    uygulama ayakta kaldığı sürece SADECE 1 KEZ çalışır, her soru için değil.
+    """
+    mevcut_db = Chroma(
+        persist_directory="./chroma_db",
+        embedding_function=embeddings,
+        collection_name="karbonhidrat_koleksiyonu",
+    )
+
+    # Koleksiyon boşsa (ilk çalıştırma / cloud'da chroma_db yok) sıfırdan kur
+    if mevcut_db._collection.count() == 0:
+        pdf_chunklari = pdf_chunklarini_hazirla(pdf_klasoru="data/")
+        json_documentleri = json_besinlerini_documentlere_cevir(
+            "karbonhidrat_veritabani_birlesik.json"
+        )
+        mevcut_db = vektor_veritabani_olustur(pdf_chunklari, json_documentleri)
+
+    return mevcut_db
+
+vectordb = vektordb_getir()
 
 # 1) Semantic (anlam bazlı) retriever -- dolaylı ifadeler, eş anlamlılar için güçlü
 semantic_retriever = vectordb.as_retriever(search_kwargs={"k": 5})
