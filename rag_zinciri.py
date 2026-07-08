@@ -149,6 +149,13 @@ rag_zinciri = (
     | StrOutputParser()
 )
 
+def cevap_al(soru: str) -> str:
+    """
+    app.py'nin çağırdığı ana fonksiyon: kullanıcının sorusunu alır,
+    RAG zincirinden geçirir ve metin cevabı döner.
+    """
+    return rag_zinciri.invoke(soru)
+
 if __name__ == "__main__":
     test_sorulari = [
         "1 orta boy elma kaç gram karbonhidrat içerir?",
